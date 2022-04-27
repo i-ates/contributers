@@ -80,3 +80,8 @@ http://localhost:8080/api/contributers/top10/apache/commons-lang
 ]
 
 ```
+
+## TODO
+*Add http error handling
+*Add unit tests
+*Dockerize the api
