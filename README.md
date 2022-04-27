@@ -2,6 +2,8 @@
 
 Simple API to get a repository top 10 contributers information.
 
+serverUrl/api/contributers/top10/{organizationName}/{repositoryName}
+
 http://localhost:8080/api/contributers/top10/apache/commons-lang
 ```json
 [
